@@ -1,0 +1,7 @@
+code filter=lfs diff=lfs merge=lfs -text
+practice/learn filter=lfs diff=lfs merge=lfs -text
+cnn/dataset.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/Ronit filter=lfs diff=lfs merge=lfs -text
+C:/Users/Ronit[[:space:]]Ahuja/OneDrive/Documents/vs[[:space:]]code[[:space:]]practice/learn[[:space:]]cnn/dataset.csv filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
